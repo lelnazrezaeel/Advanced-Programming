@@ -1,5 +1,5 @@
 # Advanced-Programming-IUST
-My solutions to IUST's Advanced programming, Fall 2020, Dr. Malekimajd
+My solutions to IUST's Advanced programming, Fall 2020, Dr. Malekimajd.
 
 ## <img width="20" height="20" src="https://img.icons8.com/wired/64/41b883/class.png" alt="class"/> Class Activities
 ### CA1
